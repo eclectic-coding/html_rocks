@@ -2129,10 +2129,10 @@ mustache@^2.3.2:
   resolved "https://registry.npmjs.org/mustache/-/mustache-2.3.2.tgz"
   integrity sha512-KpMNwdQsYz3O/SBS1qJ/o3sqUJ5wSb8gb0pul8CO0S56b9Y2ALm8zCfsjPXsqGFfoNBkDwZuZIAjhsZI03gYVQ==
 
-nanocolors@^0.1.5:
-  version "0.1.6"
-  resolved "https://registry.npmjs.org/nanocolors/-/nanocolors-0.1.6.tgz"
-  integrity sha512-2pvTw6vYRaBLGir2xR7MxaJtyWkrn+C53EpW8yPotG+pdAwBvt0Xwk4VJ6VHLY0aLthVZPvDfm9TdZvrvAm5UQ==
+nanocolors@^0.2.2:
+  version "0.2.3"
+  resolved "https://registry.npmjs.org/nanocolors/-/nanocolors-0.2.3.tgz"
+  integrity sha512-RxGTOApG8prHMA08UBMOT6qYzcBBW2EMBv7SRBqoXg/Dqp6G3yT7kLy1tpFuYLO+5h7eajmdiIHJA8oewN58XQ==
 
 nanoid@^3.1.25:
   version "3.1.25"
@@ -2799,12 +2799,12 @@ postcss@^7.0.1, postcss@^7.0.27:
     source-map "^0.6.1"
     supports-color "^6.1.0"
 
-postcss@^8.3.7:
-  version "8.3.7"
-  resolved "https://registry.npmjs.org/postcss/-/postcss-8.3.7.tgz"
-  integrity sha512-9SaY7nnyQ63/WittqZYAvkkYPyKxchMKH71UDzeTmWuLSvxTRpeEeABZAzlCi55cuGcoFyoV/amX2BdsafQidQ==
+postcss@^8.3.8:
+  version "8.3.8"
+  resolved "https://registry.npmjs.org/postcss/-/postcss-8.3.8.tgz"
+  integrity sha512-GT5bTjjZnwDifajzczOC+r3FI3Cu+PgPvrsjhQdRqa2kTJ4968/X9CUce9xttIB0xOs5c6xf0TCWZo/y9lF6bA==
   dependencies:
-    nanocolors "^0.1.5"
+    nanocolors "^0.2.2"
     nanoid "^3.1.25"
     source-map-js "^0.6.2"
 
