@@ -264,14 +264,14 @@ at-least-node@^1.0.0:
   resolved "https://registry.npmjs.org/at-least-node/-/at-least-node-1.0.0.tgz"
   integrity sha512-+q/t7Ekv1EDY2l6Gda6LLiX14rU9TV20Wa3ofeQmwPFZbOMo9DXrLbOjFaaclkXKWidIaopwAObQDqwWtGUjqg==
 
-autoprefixer@^9.8.6:
-  version "9.8.6"
-  resolved "https://registry.npmjs.org/autoprefixer/-/autoprefixer-9.8.6.tgz"
-  integrity sha512-XrvP4VVHdRBCdX1S3WXVD8+RyG9qeb1D5Sn1DeLiG2xfSpzellk5k54xbUERJ3M5DggQxes39UGOTP8CFrEGbg==
+autoprefixer@^9.8.7:
+  version "9.8.7"
+  resolved "https://registry.npmjs.org/autoprefixer/-/autoprefixer-9.8.7.tgz"
+  integrity sha512-7Hg99B1eTH5+LgmUBUSmov1Z3bsggQJS7v3IMGo6wcScnbRuvtMc871J9J+4bSbIqa9LSX/zypFXJ8sXHpMJeQ==
   dependencies:
     browserslist "^4.12.0"
     caniuse-lite "^1.0.30001109"
-    colorette "^1.2.1"
+    nanocolors "^0.2.8"
     normalize-range "^0.1.2"
     num2fraction "^1.2.2"
     postcss "^7.0.32"
@@ -2129,10 +2129,10 @@ mustache@^2.3.2:
   resolved "https://registry.npmjs.org/mustache/-/mustache-2.3.2.tgz"
   integrity sha512-KpMNwdQsYz3O/SBS1qJ/o3sqUJ5wSb8gb0pul8CO0S56b9Y2ALm8zCfsjPXsqGFfoNBkDwZuZIAjhsZI03gYVQ==
 
-nanocolors@^0.2.2:
-  version "0.2.3"
-  resolved "https://registry.npmjs.org/nanocolors/-/nanocolors-0.2.3.tgz"
-  integrity sha512-RxGTOApG8prHMA08UBMOT6qYzcBBW2EMBv7SRBqoXg/Dqp6G3yT7kLy1tpFuYLO+5h7eajmdiIHJA8oewN58XQ==
+nanocolors@^0.2.2, nanocolors@^0.2.8:
+  version "0.2.8"
+  resolved "https://registry.npmjs.org/nanocolors/-/nanocolors-0.2.8.tgz"
+  integrity sha512-lFtwopLYUwJ/w+VcBib+Ti1J+USzc/m2XN9LCCl/AhibkzYlXk6FHeqkJqBWRd70RpjArGWYZQjwa6UgwYycBA==
 
 nanoid@^3.1.25:
   version "3.1.25"
